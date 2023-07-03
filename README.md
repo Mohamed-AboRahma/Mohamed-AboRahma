@@ -21,7 +21,6 @@
 ### Connect with Me :
 
 <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed AboRahma-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/" target="_blank"><img src="https://img.shields.io/badge/-Mohamed AboRahma-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Back End
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp; -->
 <!-- ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp; -->
